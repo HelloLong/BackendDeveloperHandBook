@@ -4,6 +4,7 @@
 * [算法与数据结构](suan-fa-yu-shu-ju-jie-gou/README.md)
   * [动态规划](AlgorithmAndDataStructure/DynamicProgramming.md)
 * [中间件](MiddleWare.md)
-* [Managment](managment.md)
+* [Managment](managment/README.md)
+  * [Project Managment](managment/project-managment.md)
 * [后记](<README (1).md>)
 * [参考](Reference.md)

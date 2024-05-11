@@ -1,7 +1,6 @@
-# 参考
+---
+description: 算法与数据结构
+---
 
-### 参考
+# 算法与数据结构
 
-**相关链接**：
-
-* [reference](reference.md)

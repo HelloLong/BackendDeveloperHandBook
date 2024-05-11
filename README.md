@@ -1,6 +1,6 @@
 ---
-description: 算法与数据结构
+description: 基础
 ---
 
-# 算法与数据结构
+# 基础
 

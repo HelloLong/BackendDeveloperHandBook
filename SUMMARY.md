@@ -1,8 +1,9 @@
 # Table of contents
 
-* [算法与数据结构](README.md)
-  * [动态规划](suan-fa-yu-shu-ju-jie-gou/dynamicprogramming.md)
+* [基础](README.md)
+* [算法与数据结构](suan-fa-yu-shu-ju-jie-gou/README.md)
+  * [动态规划](AlgorithmAndDataStructure/DynamicProgramming.md)
 * [中间件](MiddleWare.md)
-* [基础](Basic.md)
-* [后记](hou-ji.md)
+* [Managment](managment.md)
+* [后记](<README (1).md>)
 * [参考](Reference.md)

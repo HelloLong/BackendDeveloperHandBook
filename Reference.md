@@ -6,4 +6,5 @@
 * [知行：技术人的管理之路（第2版）](https://weread.qq.com/web/bookDetail/c3032820813ab8038g014ada)
 * [你管这破玩意叫操作系统源码](https://mp.weixin.qq.com/mp/appmsgalbum?\_\_biz=Mzk0MjE3NDE0Ng==\&action=getalbum\&album\_id=2123743679373688834#wechat\_redirect)
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [kubernetes 官方中文文档](https://kubernetes.io/zh-cn/docs/tutorials/kubernetes-basics/)
 

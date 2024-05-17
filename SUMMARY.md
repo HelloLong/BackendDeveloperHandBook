@@ -22,7 +22,7 @@
   * [GreyRelease 灰度发布](cicd-chi-xu-ji-chu-yu-bu-shu/greyrelease-hui-du-fa-bu.md)
 * [Managment 管理](managment/README.md)
   * [Project Managment](managment/project-managment.md)
-  * [Organization](managment/organization.md)
+  * [Organization 组织架构](managment/organization-zu-zhi-jia-gou.md)
 * [Product 产品](product-chan-pin.md)
 * [Readme 后记](<README (1).md>)
 * [References 参考](Reference.md)

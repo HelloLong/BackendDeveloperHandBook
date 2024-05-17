@@ -3,6 +3,7 @@
 * [Basic 基础](README.md)
 * [Architecture 架构](architecture-jia-gou/README.md)
   * [HighConcurrency 高并发](architecture-jia-gou/highconcurrency-gao-bing-fa.md)
+  * [Authentication 鉴权](architecture-jia-gou/authentication-jian-quan.md)
 * [DesignPatterns 设计模式](designpatterns-she-ji-mo-shi.md)
 * [Java](java.md)
 * [Distribute System 分布式系统](distribute-system-fen-bu-shi-xi-tong.md)
@@ -22,4 +23,4 @@
   * [Project Managment](managment/project-managment.md)
 * [Product 产品](product-chan-pin.md)
 * [Readme 后记](<README (1).md>)
-* [Refer 参考](Reference.md)
+* [References 参考](Reference.md)

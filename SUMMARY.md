@@ -23,6 +23,7 @@
 * [Managment 管理](managment/README.md)
   * [Project Managment](managment/project-managment.md)
   * [Organization 组织架构](managment/organization-zu-zhi-jia-gou.md)
+  * [TeamManagment](managment/teammanagment.md)
 * [Product 产品](product-chan-pin.md)
 * [Readme 后记](<README (1).md>)
 * [References 参考](Reference.md)

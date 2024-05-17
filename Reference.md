@@ -1,4 +1,4 @@
-# Refer 参考
+# References 参考
 
 * [王木头学科学 - 非计算机专业学编程难在哪？](https://www.bilibili.com/video/BV123411p7rf/?spm\_id\_from=333.999.0.0\&vd\_source=0a2a7bbb315efb16fa0d35b69437bbbb)
 * [小林coding](https://xiaolincoding.com/)
@@ -12,4 +12,5 @@
 * [Java架构师-十项全能](https://class.imooc.com/sale/javaalmighty)
 * [从0开始学架构](https://time.geekbang.org/column/intro/100006601?code=nDyefOXdn6sJRdIo3rxPbDUcGi-7Au0SaUROi0nu7gA%3D\&source=app\_share)
 * [李智慧高并发架构实战课](https://time.geekbang.org/column/intro/100105701?code=459wpDIf7VUWDVwd6luBIX%2F9FW04XViDozKPmKKn90g%3D\&source=app\_share)
+* [力扣&拉钩算法-苏勇 ](https://www.bilibili.com/video/BV1Ei4y1g7TW/?buvid=XXDBE91DD81887F51BDC76A3878EAA34C895B\&from\_spmid=main.my-history.0.0\&is\_story\_h5=false\&mid=9p7lQKxxCe7HsdCDvBkBYw%3D%3D\&p=1\&plat\_id=116\&share\_from=ugc\&share\_medium=android\&share\_plat=android\&share\_session\_id=6502ee42-a540-4160-a103-57170cf42c69\&share\_source=WEIXIN\&share\_tag=s\_i\&spmid=united.player-video-detail.0.0\&timestamp=1715930602\&unique\_k=4e4AR8N\&up\_id=175260948\&vd\_source=0a2a7bbb315efb16fa0d35b69437bbbb)
 

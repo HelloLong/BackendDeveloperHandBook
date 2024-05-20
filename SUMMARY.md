@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Basic 基础](README.md)
+  * [ComputerOrganization 计算机组成原理](basic/computerorganization-ji-suan-ji-zu-cheng-yuan-li.md)
+  * [OperationSystem 操作系统](basic/operationsystem-cao-zuo-xi-tong.md)
 * [Architecture 架构](architecture-jia-gou/README.md)
   * [Microservice](architecture-jia-gou/microservice/README.md)
     * [APM(Application Performance Management) 应用性能管理](architecture-jia-gou/microservice/apmapplication-performance-management-ying-yong-xing-neng-guan-li.md)

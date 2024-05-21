@@ -35,6 +35,7 @@
   * [CAP](distribute-system-fen-bu-shi-xi-tong/cap.md)
   * [CoordinationService 分布式协调服务](distribute-system-fen-bu-shi-xi-tong/coordinationservice-fen-bu-shi-xie-tiao-fu-wu.md)
   * [DistributeLock 分布式锁](distribute-system-fen-bu-shi-xi-tong/distributelock-fen-bu-shi-suo.md)
+  * [DistributeId 分布式Id](distribute-system-fen-bu-shi-xi-tong/distributeid-fen-bu-shi-id.md)
 * [Algorithm and data structure 算法与数据结构](algorithm-and-data-structure-suan-fa-yu-shu-ju-jie-gou/README.md)
   * [Dynamic Programming 动态规划](algorithm-and-data-structure-suan-fa-yu-shu-ju-jie-gou/dynamic-programming.md)
   * [CommonDataStructure 常用数据结构](algorithm-and-data-structure-suan-fa-yu-shu-ju-jie-gou/commondatastructure-chang-yong-shu-ju-jie-gou.md)

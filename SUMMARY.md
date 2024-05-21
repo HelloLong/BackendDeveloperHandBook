@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Basic 基础](README.md)
+  * [ProgrammingThinking 编程思维](basic/programmingthinking-bian-cheng-si-wei.md)
   * [ProgrammingParadigm 编程范式](basic/programmingparadigm-bian-cheng-fan-shi.md)
   * [ComputerOrganization 计算机组成原理](basic/computerorganization-ji-suan-ji-zu-cheng-yuan-li.md)
   * [OperationSystem 操作系统](basic/operationsystem-cao-zuo-xi-tong.md)

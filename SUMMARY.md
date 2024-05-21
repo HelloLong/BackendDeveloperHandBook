@@ -24,7 +24,7 @@
   * [PerformanceOptimization 性能调优](architecture-jia-gou/performanceoptimization-xing-neng-tiao-you/README.md)
     * [InfrastructureOptimization 基础设施优化](architecture-jia-gou/performanceoptimization-xing-neng-tiao-you/infrastructureoptimization-ji-chu-she-shi-you-hua/README.md)
       * [ZeroCopy 零拷贝](architecture-jia-gou/performanceoptimization-xing-neng-tiao-you/infrastructureoptimization-ji-chu-she-shi-you-hua/zerocopy-ling-kao-bei.md)
-  * [DDD](architecture-jia-gou/ddd.md)
+  * [DDD(DomainDrivenDesign) 领域驱动设计](architecture-jia-gou/ddddomaindrivendesign-ling-yu-qu-dong-she-ji.md)
 * [Language 编程语言](language-bian-cheng-yu-yan/README.md)
   * [Java](language-bian-cheng-yu-yan/java/README.md)
     * [JVM](language-bian-cheng-yu-yan/java/jvm.md)

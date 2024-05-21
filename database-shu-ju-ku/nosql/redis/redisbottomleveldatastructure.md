@@ -88,6 +88,11 @@ Listpack 的主要特点包括：
 
 [一文彻底搞懂Redis底层数据结构](https://blog.csdn.net/weixin\_44772566/article/details/137008421)
 
+[一文理解Redis底层数据结构](https://cloud.tencent.com/developer/article/1839596)
+
+\
+
+
 \
 
 

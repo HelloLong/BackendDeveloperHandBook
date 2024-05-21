@@ -1,5 +1,11 @@
 # SRE(Site Reliability Engineering) 网站可靠性建设
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/536b2297541ce987c8bd6632b7f55973.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 ## References
 
 [稳定性建设系列文章1\_大纲&方法论](https://segmentfault.com/a/1190000041671012)

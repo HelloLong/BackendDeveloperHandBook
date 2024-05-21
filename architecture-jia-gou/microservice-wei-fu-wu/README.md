@@ -1,8 +1,8 @@
-# Microservice
+# Microservice 微服务
 
 ## 微服务架构的全貌
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 

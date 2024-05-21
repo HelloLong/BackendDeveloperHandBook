@@ -4,7 +4,7 @@
 
 APM 是Application Performance Managment的缩写，即：“应用性能管理”。现代的APM体系，基本都是参考Google的《[Dapper，大规模分布式系统的跟踪系统](https://www.zhihu.com/search?q=Dapper%EF%BC%8C%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%B7%9F%E8%B8%AA%E7%B3%BB%E7%BB%9F\&search\_source=Entity\&hybrid\_search\_source=Entity\&hybrid\_search\_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2303779331%7D)》 的体系来实践的。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Gartner的APM Conceptual Framework（概念框架）</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Gartner的APM Conceptual Framework（概念框架）</p></figcaption></figure>
 
 1、终端用户体验：End User Experience
 

@@ -10,6 +10,15 @@
 
 [Hadoop、Hive、HDFS、Hbase之间关系](https://zhuanlan.zhihu.com/p/483077758)
 
+[大数据方面核心技术有哪些？](https://www.zhihu.com/question/27696290)
+
+[大数据技术漫谈 ——从Hadoop、Storm、Spark、HBase到Hive、Flink、Lindorm](https://zhuanlan.zhihu.com/p/407175099)
+
+\
+
+
+
+
 \
 
 

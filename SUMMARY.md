@@ -57,6 +57,7 @@
       * [RedisDuration Redis持久化](database-shu-ju-ku/nosql/redis/redisduration-redis-chi-jiu-hua.md)
       * [RedisUsage Redis应用场景](database-shu-ju-ku/nosql/redis/redisusage-redis-ying-yong-chang-jing.md)
     * [MongoDB](database-shu-ju-ku/nosql/mongodb.md)
+  * [Oracle](database-shu-ju-ku/oracle.md)
 * [BigData 大数据](bigdata-da-shu-ju.md)
   * [TiDB](bigdata-da-shu-ju/tidb.md)
   * [HBase](bigdata-da-shu-ju/hbase.md)

@@ -2,7 +2,7 @@
 
 ## Redis数据类型与底层数据结构关系
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## SDS 简单动态字符串&#x20;
 

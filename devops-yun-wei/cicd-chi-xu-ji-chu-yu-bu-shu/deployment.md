@@ -2,7 +2,7 @@
 
 ## **Blue/Green Deployment 蓝绿部署**
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 蓝绿发布比较简单，只是对全量发布的一种优化而已，发布前不用全部停机，而是另外部署新版本全部实例，然后再把流量全部再切换到新版本。
 

@@ -15,4 +15,5 @@
 * [力扣&拉钩算法-苏勇 ](https://www.bilibili.com/video/BV1Ei4y1g7TW/?buvid=XXDBE91DD81887F51BDC76A3878EAA34C895B\&from\_spmid=main.my-history.0.0\&is\_story\_h5=false\&mid=9p7lQKxxCe7HsdCDvBkBYw%3D%3D\&p=1\&plat\_id=116\&share\_from=ugc\&share\_medium=android\&share\_plat=android\&share\_session\_id=6502ee42-a540-4160-a103-57170cf42c69\&share\_source=WEIXIN\&share\_tag=s\_i\&spmid=united.player-video-detail.0.0\&timestamp=1715930602\&unique\_k=4e4AR8N\&up\_id=175260948\&vd\_source=0a2a7bbb315efb16fa0d35b69437bbbb)
 * [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)
 * [图灵java架构师学习路线](https://www.processon.com/view/link/653b5c2403971068579f8dcf)
+* [二哥的Java进阶之路x沉默王二](https://javabetter.cn/home.html)
 

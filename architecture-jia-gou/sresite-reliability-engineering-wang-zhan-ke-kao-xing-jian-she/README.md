@@ -1,6 +1,6 @@
 # SRE(Site Reliability Engineering) 网站可靠性建设
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/536b2297541ce987c8bd6632b7f55973.png" alt=""><figcaption></figcaption></figure>
 

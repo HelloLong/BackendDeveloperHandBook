@@ -31,7 +31,6 @@
   * [Java](language-bian-cheng-yu-yan/java/README.md)
     * [Spring](language-bian-cheng-yu-yan/java/spring.md)
     * [SpringBoot](language-bian-cheng-yu-yan/java/springboot.md)
-    * [Page](language-bian-cheng-yu-yan/java/page.md)
     * [JVM](language-bian-cheng-yu-yan/java/jvm.md)
     * [Lock](language-bian-cheng-yu-yan/java/lock.md)
     * [GarbageCollection](language-bian-cheng-yu-yan/java/garbagecollection.md)

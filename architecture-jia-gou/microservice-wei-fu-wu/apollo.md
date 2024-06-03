@@ -1,8 +1,10 @@
 # Apollo
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-上图简要描述了Apollo客户端的实现原理：
+
+## Apollo客户端的实现原理
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1. 客户端和服务端保持了一个长连接，从而能第一时间获得配置更新的推送。（通过Http Long Polling实现）
 2. 客户端还会定时从Apollo配置中心服务端拉取应用的最新配置。
@@ -16,6 +18,6 @@
 
 
 
-Referens
+## References
 
 [https://www.apolloconfig.com/#/zh/design/apollo-design](https://www.apolloconfig.com/#/zh/design/apollo-design)

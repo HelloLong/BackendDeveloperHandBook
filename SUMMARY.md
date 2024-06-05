@@ -99,5 +99,7 @@
   * [ERP](product-chan-pin/erp.md)
   * [WMS](product-chan-pin/wms.md)
   * [Saas](product-chan-pin/saas.md)
+* [Others](others/README.md)
+  * [ProjectIntroduction 项目介绍](others/projectintroduction-xiang-mu-jie-shao.md)
 * [Readme 后记](<README (1).md>)
 * [References 参考](Reference.md)

@@ -85,9 +85,18 @@ class JwtOrderView(View):
        return JsonResponse({"code": 1000, "message": "订单列表"})
 </code></pre>
 
+### JWT 与 Token的关系
+
+
+
 ## References
 
 JWT 技术介绍 [https://mp.weixin.qq.com/s/YL8kU3csDFXAk3ac5j2VVg](https://mp.weixin.qq.com/s/YL8kU3csDFXAk3ac5j2VVg)&#x20;
 
 不懂就学，什么是JWT？[https://mp.weixin.qq.com/s/Q4rO3ycGtBLGlnPdlcHh2g](https://mp.weixin.qq.com/s/Q4rO3ycGtBLGlnPdlcHh2g)
+
+JWT和Token之间的区别 [https://zhuanlan.zhihu.com/p/668679815](https://zhuanlan.zhihu.com/p/668679815)
+
+\
+
 

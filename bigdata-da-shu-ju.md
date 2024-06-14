@@ -1,6 +1,6 @@
 # BigData 大数据
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 在大数据架构中，Hive和HBase是协作关系，数据流一般如下： 通过ETL工具将数据源抽取到HDFS存储；通过Hive清洗、处理和计算原始数据；HIve清洗处理后的结果，如果是面向海量数据随机查询场景的可存入Hbase数据应用从HBase查询数据。
 

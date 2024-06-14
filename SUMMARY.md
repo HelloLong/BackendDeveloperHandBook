@@ -5,6 +5,7 @@
   * [ProgrammingParadigm 编程范式](basic/programmingparadigm-bian-cheng-fan-shi.md)
   * [ComputerOrganization 计算机组成原理](basic/computerorganization-ji-suan-ji-zu-cheng-yuan-li.md)
   * [OperationSystem 操作系统](basic/operationsystem-cao-zuo-xi-tong.md)
+  * [IO 多路复用](basic/io-duo-lu-fu-yong.md)
   * [DesignPatterns 设计模式](basic/designpatterns-she-ji-mo-shi.md)
 * [Architecture 架构](architecture-jia-gou/README.md)
   * [Microservice 微服务](architecture-jia-gou/microservice-wei-fu-wu/README.md)
